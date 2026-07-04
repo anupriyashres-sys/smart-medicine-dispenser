@@ -18,6 +18,6 @@ How it works:
 The device tracks two medication times set through onboard controls. At the scheduled time, it sounds an alert and sweeps a servo motor to dispense 
 the dose, while a built-in web server lets you check status (pending, dispensing, completed) from any browser connected to its Wi-Fi hotspot.
 
-My Role
+My Role: 
 Collaborated with a team to design, test, and debug the embedded system, 
 including sensor/actuator integration and scheduling logic.
